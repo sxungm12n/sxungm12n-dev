@@ -5,7 +5,7 @@
 
   <h2 style="border-bottom: 2px solid #d8dee4; color: #1f1f1f;">🌱 발전하는 개발자</h2>
   <ul style="line-height: 1.8; list-style: none; padding-left: 0;">
-    <li>🎓 건국대학교 소프트웨어학과, 2019 ~ 2024</li>
+    <li>🎓 건국대학교 컴퓨터공학과, 2019 ~ 2024</li>
     <li>🪟 Microsoft AI School, 2024 ~ 2025</li>
   </ul>
 
